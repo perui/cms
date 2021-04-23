@@ -9,5 +9,5 @@
 # "production" environment specific build settings
 [build.environment]
   HUGO_VERSION = "0.82.1"
-  HUGO_THEME = "docsy"
+  HUGO_THEME = "Docsy"
   HUGO_ENV = "production"
