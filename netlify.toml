@@ -3,8 +3,8 @@
 
 # Default build settings
 [build]
-  publish = "public/"
-  command = "git submodule update -f --init && npm install postcss-cli && hugo --themesDir ../.."
+  publish = "public"
+  command = "hugo"
 
 # "production" environment specific build settings
 [build.environment]
